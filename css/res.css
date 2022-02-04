@@ -1,0 +1,154 @@
+@media screen and (max-width: 800px) {
+    body {
+        padding: 0.8rem;
+        background-image: url(/LGM_one/img/1.jpg);
+        background-size: cover;
+        padding: 0px 0px;
+        margin: 0px 0px;
+        background-size: 67em;
+        background-position: top center;
+        background-position-x: center;
+        background-position-y: top;
+        background-attachment: scroll;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .block {
+        display: none;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .navbar {
+        width: 300px;
+    }
+    .container1 {
+        width: 100px;
+        font-size: small;
+        display: block;
+        align-items: center;
+    }
+    .one {
+        display: block;
+        margin: auto auto;
+        padding: auto;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .container2 {
+        width: 500px;
+        padding: 100px 70px;
+        font-size: small;
+        display: block;
+    }
+    .two hr {
+        display: block;
+        margin: auto auto;
+        padding: auto;
+        width: 2px;
+        text-align: center;
+    }
+    .two1 {
+        margin: 20px 5px;
+    }
+    .block2 {
+        margin: 20px 130px;
+        display: block;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .container3 {
+        padding: 0px 0px;
+    }
+    .block4 {
+        padding: 0px 60px;
+    }
+    .b41 img {
+        border-radius: 20px;
+        box-shadow: 10px 10px 5px grey;
+        height: 400px;
+        width: 300px;
+        margin: 0px -20px;
+    }
+    .p1 {
+        width: 300px;
+        margin: 30px 5px;
+        padding-right: 30px;
+        font-size: medium;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .container5 {
+        padding: 0px 0px;
+    }
+    .blockb .p2 {
+        width: 300px;
+        margin: 0px 80px;
+        padding-right: 30px;
+        font-size: medium;
+        line-height: 25px;
+    }
+    .slider {
+        width: 400px;
+        height: 300px;
+        margin: 0px 40px;
+    }
+    .blockc {
+        margin: 20px 150px;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .services {
+        margin-top: 100px;
+    }
+    .container4 {
+        padding: 10px 10px;
+        margin: 10px 10px;
+    }
+    hr {
+        display: none;
+    }
+    .block5 {
+        display: block;
+        font-size: smaller;
+    }
+    .s {
+        margin: 10px 10px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .contact {
+        margin-top: 50px;
+    }
+    .containerc {
+        margin: 0px 1px;
+    }
+    .cform {
+        padding: 10px 20px;
+    }
+    .f {
+        margin: 10px 12px;
+        width: 400px;
+    }
+    .map {
+        display: none;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .footer {
+        margin-top: 35em;
+    }
+    .sitefooter {
+        display: inline-grid;
+        margin: 10px;
+    }
+}
