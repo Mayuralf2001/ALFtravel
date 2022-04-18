@@ -51,3 +51,7 @@ var responsiveSlider = function() {
 window.onload = function() {
     responsiveSlider();
 }
+
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
