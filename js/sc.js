@@ -53,5 +53,5 @@ window.onload = function() {
 }
 
 function myFunction() {
-  alert("Hello! I am an alert box!");
+  alert("Your data has been save!");
 }
